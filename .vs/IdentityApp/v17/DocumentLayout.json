@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IdentityApp-main\\IdentityApp-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7FA0ED-0560-418A-9201-C53C36994761}|Api\\Api.csproj|d:\\identityapp-main\\identityapp-main\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7FA0ED-0560-418A-9201-C53C36994761}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7FA0ED-0560-418A-9201-C53C36994761}|Api\\Api.csproj|d:\\identityapp-main\\identityapp-main\\api\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7FA0ED-0560-418A-9201-C53C36994761}|Api\\Api.csproj|solutionrelative:api\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IdentityApp-main\\IdentityApp-main\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\IdentityApp-main\\IdentityApp-main\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:17:16.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\IdentityApp-main\\IdentityApp-main\\Api\\SD.cs",
+              "RelativeDocumentMoniker": "Api\\SD.cs",
+              "ToolTip": "D:\\IdentityApp-main\\IdentityApp-main\\Api\\SD.cs",
+              "RelativeToolTip": "Api\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:17:06.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
